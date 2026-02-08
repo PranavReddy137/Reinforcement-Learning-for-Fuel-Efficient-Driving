@@ -55,6 +55,15 @@ Reward shaping is done with:
 - `render()` uses `pygame` and supports `render_mode="human"` (and an RGB-array style mode).
 - If `pygame` is missing, it raises an error indicating the dependency requirement.
 
+
+## Demo screenshots
+
+![Demo screenshot 1](Demo%20screenshots/4.jpg)
+![Demo screenshot 2](Demo%20screenshots/5.jpg)
+![Demo screenshot 3](Demo%20screenshots/6.jpg)
+![Demo screenshot 4](Demo%20screenshots/7.jpg)
+![Demo screenshot 5](Demo%20screenshots/8.jpg)
+
 ---
 
 ## Setup
